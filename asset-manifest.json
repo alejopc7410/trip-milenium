@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/trip-milenium/static/css/main.e67314e6.css",
+    "main.js": "/trip-milenium/static/js/main.125c5ac5.js",
+    "static/media/image2.jpg": "/trip-milenium/static/media/image2.9fa3afc43e384a0ea2c5.jpg",
+    "static/media/banner-image.jpg": "/trip-milenium/static/media/banner-image.6913a1b955bf2d403733.jpg",
+    "static/media/image4.jpg": "/trip-milenium/static/media/image4.fbf29697105ce007c47f.jpg",
+    "static/media/image1.jpg": "/trip-milenium/static/media/image1.524926087ac40c13f2d7.jpg",
+    "static/media/image3.jpg": "/trip-milenium/static/media/image3.b47b43352fe9a0d4ce38.jpg",
+    "index.html": "/trip-milenium/index.html",
+    "main.e67314e6.css.map": "/trip-milenium/static/css/main.e67314e6.css.map",
+    "main.125c5ac5.js.map": "/trip-milenium/static/js/main.125c5ac5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e67314e6.css",
+    "static/js/main.125c5ac5.js"
+  ]
+}
